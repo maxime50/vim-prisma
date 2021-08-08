@@ -1,1 +1,1 @@
-autocmd BufNewFile,BufRead *.prisma setlocal filetype=prisma
+autocmd BufNewFile,BufRead *.prisma setlocal filetype=prismaFmt
